@@ -36,7 +36,7 @@ Fluxo de autenticação:
 ### 1. Clonar o repositório
 
 ```
-git clone https://github.com/seu-usuario/forumhub.git](https://github.com/julianavsleal/Forum-Hub.git
+git clone https://github.com/julianavsleal/Forum-Hub.git
 ```
 
 ### 2. Entrar na pasta do projeto
